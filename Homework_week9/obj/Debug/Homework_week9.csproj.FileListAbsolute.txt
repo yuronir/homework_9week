@@ -1,0 +1,9 @@
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\bin\Debug\Homework_week9.exe.config
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\bin\Debug\Homework_week9.exe
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\bin\Debug\Homework_week9.pdb
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\obj\Debug\Homework_week9.csprojResolveAssemblyReference.cache
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\obj\Debug\Homework_week9.Form1.resources
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\obj\Debug\Homework_week9.Properties.Resources.resources
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\obj\Debug\Homework_week9.csproj.GenerateResource.Cache
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\obj\Debug\Homework_week9.exe
+D:\LYE\NEXT\Pr-Practice\workspace\Homework_week9\Homework_week9\obj\Debug\Homework_week9.pdb
